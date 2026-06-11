@@ -1,0 +1,78 @@
+# Paralegal Service for you — Generative Engine Optimization Map
+
+> Paralegal Service
+
+---
+
+## Pages
+
+### Home
+https://paralegal-service-for-you-dec666c1.zappy5.app
+Unlock affordable legal services that put you first. From legal aid services of oklahoma to mental hygiene legal solutions, get the support you deserve. Start your journey now.
+
+### Services
+https://paralegal-service-for-you-dec666c1.zappy5.app/services
+Discover tailored mental hygiene legal services, arag legal services guidance, and more. Affordable, caring paralegal expertise designed to protect your rights. See how we help.
+
+### About
+https://paralegal-service-for-you-dec666c1.zappy5.app/about
+Learn why we champion affordable legal services and partner with legal aid services of oklahoma. Real people, real commitment, real results for your legal peace of mind.
+
+### Contact
+https://paralegal-service-for-you-dec666c1.zappy5.app/contact
+Ready for affordable legal services that deliver? Connect for mental hygiene legal services, arag legal services, or general aid. Your solution starts with one message.
+
+## Legal & Policy
+
+### Privacy Policy
+https://paralegal-service-for-you-dec666c1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://paralegal-service-for-you-dec666c1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://paralegal-service-for-you-dec666c1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://paralegal-service-for-you-dec666c1.zappy5.app/contact
+- Endpoint: https://paralegal-service-for-you-dec666c1.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Paralegal Service for you
+Paralegal Service
+
+## Target Audience
+- Small Law Firms
+- Independent Attorneys
+- Pro se partes
+
+## Industry
+Legal Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://paralegal-service-for-you-dec666c1.zappy5.app/sitemap.xml
+- Robots: https://paralegal-service-for-you-dec666c1.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://paralegal-service-for-you-dec666c1.zappy5.app/llms-full.txt
