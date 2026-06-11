@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: jim5981@gmail.com
+- Phone: 19414023564
+- Phone (tel): tel:19414023564
+- Address: United States
 
 ### Contact form
 - URL: https://example.com/contact
